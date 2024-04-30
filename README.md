@@ -6,6 +6,10 @@
 2.ทดสอบการเปิดการแสดง Battery ใน Menu Battery \
 3.ทดสอบการเพิ่ม ภาษาไทย เมนู System > Languages & input > Languages > Add Language >  พิมพ์ th เมื่อภาษาไทยขึ้นมาจึงทำการเพิ่ม \
 # Setting
+
+# Emulator Version 
+<img src = 'image/emulator.PNG' width="550" height="80">
+
 # Appium Server 
 <img src = 'image/Appium_server_setting.PNG' width="660" height="550">
 
@@ -20,9 +24,6 @@
 }
 </code></pre>
 </div>
-
-# Emulator Version 
-<img src = 'image/emulator.PNG' width="550" height="80">
 
 # run
 <div align="left"> 
