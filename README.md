@@ -15,6 +15,8 @@
 
 # Appium Inspector
 <img src = 'image/Appium_inspector.PNG' width="1280" height="720">
+
+# Json
 <div align="left"> 
 <pre><code>{
 "platformName": "Android",
