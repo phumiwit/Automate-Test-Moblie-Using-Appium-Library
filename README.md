@@ -11,7 +11,6 @@
 
 # Appium Inspector
 <img src = 'image/Appium_inspector.PNG' width="1280" height="720">
-
 <div align="left"> 
 <pre><code>
 {
