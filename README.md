@@ -13,5 +13,9 @@
 <img src = 'image/Appium_inspector.PNG' width="1280" height="720">
 
 <div align="center"> 
-  <pre><code>python Generate_loan_data.py</code></pre>
+  <pre><code>{
+  "platformName": "Android",
+  "appium:platformVersion": "12.0",
+  "appium:deviceName": "emulator-5554"
+}</code></pre>
 </div>
