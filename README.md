@@ -9,4 +9,9 @@
 # Appium Server Setting
 <img src = 'image/Appium_server_setting.PNG' width="400" height="400">
 
+# Appium Inspector
+<img src = 'image/Appium_inspector.PNG' width="400" height="400">
 
+<div align="center"> 
+  <pre><code>python Generate_loan_data.py</code></pre>
+</div>
