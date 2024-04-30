@@ -14,8 +14,8 @@
 
 <div align="center"> 
   <pre><code>{
-  "platformName": "Android",
-  "appium:platformVersion": "12.0",
-  "appium:deviceName": "emulator-5554"
-}</code></pre>
+        "platformName": "Android",
+        "appium:platformVersion": "12.0",
+        "appium:deviceName": "emulator-5554"
+  }</code></pre>
 </div>
