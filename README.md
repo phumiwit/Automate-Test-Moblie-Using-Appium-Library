@@ -12,12 +12,12 @@
 # Appium Inspector
 <img src = 'image/Appium_inspector.PNG' width="1280" height="720">
 
-<div align="center"> 
+<div align="left"> 
 <pre><code>
 {
-        "platformName": "Android",
-        "appium:platformVersion": "12.0",
-        "appium:deviceName": "emulator-5554"
+"platformName": "Android",
+"appium:platformVersion": "12.0",
+"appium:deviceName": "emulator-5554"
 }
 </code></pre>
 </div>
