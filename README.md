@@ -5,8 +5,8 @@
 1.ทดสอบการเข้า setting เพื่อเปิด Airplane Mode ใน Menu Network & Internet \
 2.ทดสอบการเปิดการแสดง Battery ใน Menu Battery \
 3.ทดสอบการเพิ่ม ภาษาไทย เมนู System > Languages & input > Languages > Add Language >  พิมพ์ th เมื่อภาษาไทยขึ้นมาจึงทำการเพิ่ม \
-
-# Appium Server Setting
+# Setting
+# Appium Server 
 <img src = 'image/Appium_server_setting.PNG' width="400" height="400">
 
 # Appium Inspector
@@ -19,4 +19,12 @@
 "appium:deviceName": "emulator-5554"
 }
 </code></pre>
+</div>
+
+# Emulator Version 
+<img src = 'image/emulator.PNG' width="550" height="80">
+
+# run
+<div align="left"> 
+  <pre><code>robot Assignment.robot</code></pre>
 </div>
