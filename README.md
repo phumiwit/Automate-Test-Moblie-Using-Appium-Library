@@ -7,6 +7,6 @@
 3.ทดสอบการเพิ่ม ภาษาไทย เมนู System > Languages & input > Languages > Add Language >  พิมพ์ th เมื่อภาษาไทยขึ้นมาจึงทำการเพิ่ม \
 
 # Appium Server Setting
-<img src = 'image/Appium_server_setting.PNG' width="300" height="300">
+<img src = 'image/Appium_server_setting.PNG' width="400" height="400">
 
 
